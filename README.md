@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-### Overview of Analysis -
+### Overview of Analysis
 
 ### Results
 
